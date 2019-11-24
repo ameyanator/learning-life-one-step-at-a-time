@@ -5,17 +5,13 @@ sections:
     component: HeroBlock
     type: heroblock
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      A guy who works with computers and backpacks to mountains whenever he gets a chance.
   - section_id: about
     component: ContentBlock
     type: contentblock
     title: About
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      I'm currently completing my Bachelor's in Computer Science from Bits Pilani Goa. All my life I have spent with my family at home or friends at college. I realized that after graduating I would have to learn a lot of things about how this world works. So I decided to create this blog to share with you some of the things that I might have learned.
     actions:
       - label: Contact Me
         url: /contact
